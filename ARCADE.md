@@ -21,7 +21,6 @@ pipenv install arcade
 
 ## How to start
 
-
 * create a new file `smile.py`
 * follow [this example](http://arcade.academy/examples/happy_face.html#happy-face) what to do next
-
+* start your game with `python smile.py`
