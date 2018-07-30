@@ -1,9 +1,10 @@
 # ARCADE
 
 ## Links
-[Arcade Homepage](http://arcade.academy/)
-[Arcade API](http://arcade.academy/quick_index.html)
-[Arcade Examples](http://arcade.academy/examples/index.html)
+* [Arcade Homepage](http://arcade.academy/)
+* [Arcade API](http://arcade.academy/quick_index.html)
+* [Arcade Examples](http://arcade.academy/examples/index.html)
+* [Presentation](https://slides.com/paulcraven/pycon_2018/#/)
 
 ## Start a new project
 ```
