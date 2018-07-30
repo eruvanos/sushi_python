@@ -5,6 +5,7 @@
 * [Arcade API](http://arcade.academy/quick_index.html)
 * [Arcade Examples](http://arcade.academy/examples/index.html)
 * [Presentation](https://slides.com/paulcraven/pycon_2018/#/)
+* [Arcade Book](https://arcade-book.readthedocs.io/en/latest/)
 
 ## Start a new project
 ```
