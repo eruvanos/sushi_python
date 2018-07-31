@@ -1,5 +1,5 @@
 # Sushi_Python
-Small set of 'Sushi Cards' for python beginners
+Material collection for  python beginners
 
 
 ## External Links
